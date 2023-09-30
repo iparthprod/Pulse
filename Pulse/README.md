@@ -26,6 +26,6 @@ Music Player:
 
 Simpified and Organized Help command :
 
-![image](https://imgur.com/nOyKVLY)
+![image](https://imgur.com/nOyKVLY.jpg)
 
 Made with ❤️ & Python
