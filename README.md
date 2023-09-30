@@ -24,7 +24,7 @@
 
 and Many more 
 
-#Some Examples of Commands :
+##Some Examples of Commands :
 ____________________________________________________________________________________________________________
 Role Reaction: 
 
