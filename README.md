@@ -22,7 +22,7 @@
 - `/move`: Move users in a voice channel to another voice channel
 
 
- # and Many more 
+and Many more 
 
 ____________________________________________________________________________________________________________
 Role Reaction: 
