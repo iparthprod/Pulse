@@ -3,7 +3,7 @@
 # Discord Bot
  Discord Bot is a versatile bot that provides various features and commands for managing your Discord server.
 
-#Some Examples of Commands :
+
 
 ## Utility Commands
 - `/clear`: Clear all messages in the chat
@@ -24,6 +24,7 @@
 
 and Many more 
 
+#Some Examples of Commands :
 ____________________________________________________________________________________________________________
 Role Reaction: 
 
