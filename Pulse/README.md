@@ -26,6 +26,6 @@ Music Player:
 
 Simpified and Organized Help command :
 
-![image](https://github.com/Parth-lad-Byte/Beard-Bot/assets/73304161/622f8de8-62bf-4dd9-b2a2-feefd9bdbf4d)
+![image](https://imgur.com/nOyKVLY)
 
 Made with ❤️ & Python
